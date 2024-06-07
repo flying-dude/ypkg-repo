@@ -1,0 +1,8 @@
+desc = "A C++ library to look for directories like My Documents, ~/.config, %APPDATA%, etc. so that you do not need to write platform-specific code"
+license = "MIT"
+
+[[source]]
+
+version = "4.2.0"
+url = "https://github.com/sago007/PlatformFolders/archive/refs/tags/4.2.0.tar.gz"
+sha512sum = "50a9acd37b8b491e8938190b3b7ed1af2d3cc70bb6e59708dc1928269d5e4b8d52ec02f9330f3d9439099029ac61d193dadbca198e1d561432e02e488e103f7c"

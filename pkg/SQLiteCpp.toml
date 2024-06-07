@@ -1,0 +1,8 @@
+desc = "A smart and easy to use C++ SQLite3 wrapper."
+license = "MIT"
+
+[[source]]
+
+version = "3.3.1"
+url = "https://github.com/SRombauts/SQLiteCpp/archive/refs/tags/3.3.1.tar.gz"
+sha512sum = "08a42ef2495b65e8565569842b40882aff91a3bf1887f09b5b2f2950ae4e16ef927809e7ff9870ffcf143bc187bb3eea5c3f2e4881943144e8cb6e1605ba71ce"

@@ -1,0 +1,8 @@
+desc = "efsw is a C++ cross-platform file system watcher and notifier."
+license = "MIT"
+
+[[source]]
+
+version = "1.4.0"
+url = "https://github.com/SpartanJ/efsw/archive/refs/tags/1.4.0.tar.gz"
+sha512sum = "f1439c75b44acfa93a34cae21ee5470cfea5a475eeb6cbc83fbe8e39767b7c72abc37960d85184cb1071e61196740ae7649b86288f164f927df95792c4ece230"
