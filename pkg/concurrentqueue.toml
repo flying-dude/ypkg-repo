@@ -1,0 +1,8 @@
+desc = "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11"
+license = "BSD-2-Clause"
+
+[[source]]
+
+version = "1.0.4"
+url = "https://github.com/cameron314/concurrentqueue/archive/refs/tags/v1.0.4.tar.gz"
+sha512sum = "a27306d1a7ad725daf5155a8e33a93efd29839708b2147ba703d036c4a92e04cbd8a505d804d2596ccb4dd797e88aca030b1cb34a4eaf09c45abb0ab55e604ea"
